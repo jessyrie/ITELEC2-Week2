@@ -1,0 +1,14 @@
+C:\Users\jessyrie perol\Week2_Prototype\bin\Debug\net8.0\Week2_Prototype.exe
+C:\Users\jessyrie perol\Week2_Prototype\bin\Debug\net8.0\Week2_Prototype.deps.json
+C:\Users\jessyrie perol\Week2_Prototype\bin\Debug\net8.0\Week2_Prototype.runtimeconfig.json
+C:\Users\jessyrie perol\Week2_Prototype\bin\Debug\net8.0\Week2_Prototype.dll
+C:\Users\jessyrie perol\Week2_Prototype\bin\Debug\net8.0\Week2_Prototype.pdb
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.AssemblyInfoInputs.cache
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.AssemblyInfo.cs
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.dll
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\refint\Week2_Prototype.dll
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.pdb
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\Week2_Prototype.genruntimeconfig.cache
+C:\Users\jessyrie perol\Week2_Prototype\obj\Debug\net8.0\ref\Week2_Prototype.dll
